@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "マニュアル置き場",
-  favicon: "img/favicon.ico",
+  favicon: "img/hako.png",
 
   // Set the production url of your site here
   url: "https://rasan000.github.io/",
@@ -61,12 +61,12 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/banner.png",
       navbar: {
         title: "マニュアル置き場",
         logo: {
           alt: "My Site Logo",
-          src: "img/logo.svg",
+          src: "img/hako.png",
         },
         items: [
           {
