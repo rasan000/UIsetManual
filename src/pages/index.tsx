@@ -14,11 +14,12 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p>boothで公開しているツールの説明書を置いています。</p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/UIset/">
-            UIsetの使い方
+            ContactUIset
           </Link>
         </div>
       </div>
@@ -30,8 +31,7 @@ export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description="マニュアル置き場です<head />">
+      description="boothで公開しているツールの説明書置き場です<head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
