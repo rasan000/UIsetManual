@@ -31,6 +31,7 @@ function Feature({ title, Img, description }: FeatureItem) {
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
+        <p><a href='https://hako-iri.booth.pm/items/4381102' target='_blank'>商品ページ</a></p>
       </div>
     </div>
   );

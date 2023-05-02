@@ -66,6 +66,11 @@ const config = {
             label: "GitHub",
             position: "right",
           },
+          {
+            href: "https://hako-iri.booth.pm/",
+            label: "Booth",
+            position: "right",
+          },
         ],
       },
       footer: {
@@ -81,6 +86,10 @@ const config = {
               {
                 label: "Twitter",
                 href: "https://twitter.com/hakononaka0001",
+              },
+              {
+                label: "Booth",
+                href: "https://hako-iri.booth.pm/",
               },
             ],
           },
