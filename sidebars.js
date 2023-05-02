@@ -24,6 +24,7 @@ const sidebars = {
       items: [
         "UIset/index",
         "UIset/introduction",
+        "UIset/project",
         "UIset/setting/animation",
         "UIset/setting/ring",
         "UIset/setting/vrc",

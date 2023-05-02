@@ -9,9 +9,16 @@
 - lilToon_1.3.7
 - ModularAvatar_1.4.5
 
-また、最新版のVRChatSDKを使用しているため、VCCでの導入を前提としています。
+また最新版のVRChatSDKを使用しているため、**VCCでの導入を前提としています**。
 
 unityPackage版のVRCSDKでは動作を保証できないためご了承下さい。
 - <a href='https://vcc.docs.vrchat.com/'> VRChatCreatorCompaniton(VCC) </a>
+
+
+![VCC](@site/static/img/UIsetImg/vcc_version.png)
+
+![liltoon_version](@site/static/img/UIsetImg/lil_version.png)
+
+
 
 

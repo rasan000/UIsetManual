@@ -29,6 +29,11 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+.markdown img {
+  border: solid 1px #aaa;
+  box-shadow: #bbb 5px 5px 10px;
+}
+
 .featureImg {
   height: 200px;
   width: auto;

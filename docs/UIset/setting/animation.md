@@ -6,26 +6,32 @@
 
 「編集ウィンドウを開く」ボタンを押すと各ボタンの設定を編集するウィンドウが開きます。
 
+![edit_window](@site/static/img/UIsetImg/edit_animation.png)
+
 メニュー以下の４種類です。
 
 - MainMenu
-  - アバター正面のメニュー
+  - アバター**正面**のメニュー
   - 最初から表示されるメニューです
 
 - Sub1Menu
-  - アバターから見て上のメニュー
+  - アバターから見て**上**のメニュー
 
 - Sub2Menu
-  - アバターから見て右のメニュー
+  - アバターから見て**右**のメニュー
   - **このメニューだけいずれか一つしかボタンがONにならないようになっています(Int型)**
 
 - Sub3Menu
-  - アバターから見て左のメニュー
+  - アバターから見て**左**のメニュー
+
+![edit_window](@site/static/img/UIsetImg/menu_list.png)
 
 
 ## ボタンの設定
 
 MainMenuのMainObject1ボタンに設定する場合を例に説明します。
+
+![edit_menu](@site/static/img/UIsetImg/menu_introduction.png)
 
 - デフォルトONボタン
   - チェックを入れると、最初からボタンONに設定したアニメーションが再生されます
@@ -49,9 +55,15 @@ MainMenuのMainObject1ボタンに設定する場合を例に説明します。
   - 自分で作成したい方のためにPSDファイルも配布していますので、以下のリンクから詳細の説明ページに遷移できます
   - [ボタンのテクスチャ作成](/docs/UIset/texture_edit)
 
+![texture_setting](@site/static/img/UIsetImg/drag_texture.png)
+
 - アニメーション作成ボタン
   - 左のboxにオブジェクトをセットしたあと「アニメーション作成ボタン」を押すと、オブジェクトをONOFFするアニメを自動生成しセットします。
   - 設定したオブジェクトを初期表示ではOFFにしたいときは、デフォルトONのチェックを外した状態で、手動でHierarchyから非表示にしてください
 
+![before](@site/static/img/UIsetImg/create_before.png)
 
-ボタンは設定しない状態でもアップロードできるため、ある程度設定ができた人は次のページから指輪はメニューの位置調整をしてください。
+![after](@site/static/img/UIsetImg/create_after.png)
+
+
+ボタンは設定しない状態でもアップロードできるため、ある程度設定ができた人は指輪やメニューの位置調整をしてください。
