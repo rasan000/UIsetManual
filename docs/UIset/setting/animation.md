@@ -66,4 +66,6 @@ MainMenuのMainObject1ボタンに設定する場合を例に説明します。
 ![after](@site/static/img/UIsetImg/create_after.png)
 
 
+:::info
 ボタンは設定しない状態でもアップロードできるため、ある程度設定ができた人は指輪やメニューの位置調整をしてください。
+:::

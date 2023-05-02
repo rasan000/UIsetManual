@@ -9,10 +9,16 @@
 - lilToon_1.3.7
 - ModularAvatar_1.4.5
 
-また最新版のVRChatSDKを使用しているため、<font color='Red'>**VCCでの導入を前提としています**</font>。
+
+
+:::danger
+
+VCCでの導入を前提としています
 
 unityPackage版のVRCSDKでは動作を保証できないためご了承下さい。
-- <a href='https://vcc.docs.vrchat.com/'> VRChatCreatorCompaniton(VCC) </a>
+<a href='https://vcc.docs.vrchat.com/'> VRChatCreatorCompaniton(VCC) </a>
+
+:::
 
 
 ![VCC](@site/static/img/UIsetImg/vcc_version.png)
