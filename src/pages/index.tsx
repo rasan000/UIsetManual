@@ -21,6 +21,12 @@ function HomepageHeader() {
             to="/docs/UIset/">
             ContactUIset
           </Link>
+
+          <Link
+            className="button button--secondary button--lg left-margin"
+            to="/docs/ContactSettingSystem/">
+            ContactSettingSystem
+          </Link>
         </div>
       </div>
     </header>

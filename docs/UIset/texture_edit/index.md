@@ -31,7 +31,7 @@ clipStudioなどの画像編集ソフトでPSDファイルを開きます。
 
 ![psdfile](@site/static/img/UIsetImg/font.png)
 
-下の画像の用に自分の好きなテキストを入力します。
+下の画像のようにボタンに表示したいテキストを入力します。
 
 ![psdfile](@site/static/img/UIsetImg/test_text.png)
 

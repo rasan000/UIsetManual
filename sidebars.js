@@ -20,7 +20,7 @@ const sidebars = {
   UIsetSidebar: [
     {
       type: "category",
-      label: "UIset",
+      label: "ContactUIset",
       items: [
         "UIset/index",
         "UIset/introduction",
@@ -31,6 +31,11 @@ const sidebars = {
         "UIset/texture_edit/index",
         "UIset/FAQ",
       ],
+    },
+    {
+      type: "category",
+      label: "ContactSettingSystem",
+      items: ["ContactSettingSystem/index", "ContactSettingSystem/introduction"],
     },
   ],
 };

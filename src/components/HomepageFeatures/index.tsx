@@ -17,6 +17,18 @@ const FeatureList: FeatureItem[] = [
       <>
         <p>VRChat用のcontact機能を利用した<br />アニメーション補助ツールです</p>
         <p>Contactを使った物の出し入れや衣装の切り替えを簡単に設定することが出来ます</p>
+        <p><a href='https://hako-iri.booth.pm/items/4381102' target='_blank'>商品ページ</a></p>
+      </>
+    ),
+  },
+  {
+    title: 'ContactSettingSystem',
+    Img: "",
+    description: (
+      <>
+        <p>VRChat用のcontact機能を簡易的に設定できる補助ツールです</p>
+        <p>エフェクト同梱</p>
+        <p>※開発中</p>
       </>
     ),
   },
@@ -31,7 +43,7 @@ function Feature({ title, Img, description }: FeatureItem) {
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
-        <p><a href='https://hako-iri.booth.pm/items/4381102' target='_blank'>商品ページ</a></p>
+
       </div>
     </div>
   );
