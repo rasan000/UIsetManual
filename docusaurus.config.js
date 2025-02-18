@@ -80,14 +80,6 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "不具合問い合わせ等",
-                href: "https://discord.gg/bzN9Zw54",
-              },
-              {
-                label: "Twitter",
-                href: "https://twitter.com/hakononaka0001",
-              },
-              {
                 label: "Booth",
                 href: "https://hako-iri.booth.pm/",
               },
